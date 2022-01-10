@@ -3,5 +3,3 @@
 ## the delvelopment environment base on Anaconda
 
 ## Programming language is Python
-
-## New Test
